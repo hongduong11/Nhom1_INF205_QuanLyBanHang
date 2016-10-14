@@ -81,3 +81,9 @@ E:\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_
 E:\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.dll
 E:\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\WebForms_Basic.xml
 E:\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.pdb
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.vbprojResolveAssemblyReference.cache
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.Resources.resources
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.vbproj.GenerateResource.Cache
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.dll
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\WebForms_Basic.xml
+C:\Users\fpoly\Documents\GitHub\Nhom1_INF205_QuanLyBanHang\Nhom1_INF205_QuanLyBanHang\obj\Debug\Nhom1_INF205_QuanLyBanHang.pdb
